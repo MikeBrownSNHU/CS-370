@@ -24,4 +24,5 @@ There’s also responsibility around transparency and trust. Users should unders
 ## Repository Contents
 - Jupyter Notebook: Pirate Intelligent Agent implementation
 - README: Project summary and reflection (this file)
+- Project 2 Link https://github.com/MikeBrownSNHU/CS-370/tree/main/Module-7
 
